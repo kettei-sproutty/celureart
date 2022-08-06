@@ -4,6 +4,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "next",
+    "build": "next build",
+    "start": "next start",
     "lint": "next lint",
     "postinstall": "husky install"
   },
