@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "statiolake.vscode-rustfmt",
+    "rust-lang.rust-analyzer",
+    "EditorConfig.EditorConfig"
+  ]
+}
